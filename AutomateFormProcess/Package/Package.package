@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="0147754e-1d16-460a-900e-25cce4a32d6f" solutionId="0147754e-1d16-460a-900e-25cce4a32d6f" resetWebServer="false" sharePointProductVersion="15.0" name="AutomateFormProcess" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="fb4485a2-2d67-464b-95d4-be883461c171" />
+  </projectItems>
+</package>

@@ -1,0 +1,6 @@
+c:\users\spadmin\documents\visual studio 2013\Projects\AutomateFormProcess\AutomateFormProcess\bin\Debug\AutomateFormProcess.dll
+c:\users\spadmin\documents\visual studio 2013\Projects\AutomateFormProcess\AutomateFormProcess\bin\Debug\AutomateFormProcess.pdb
+c:\users\spadmin\documents\visual studio 2013\Projects\AutomateFormProcess\AutomateFormProcess\obj\Debug\AutomateFormProcess.dll
+c:\users\spadmin\documents\visual studio 2013\Projects\AutomateFormProcess\AutomateFormProcess\obj\Debug\AutomateFormProcess.pdb
+C:\Users\spadmin\Documents\Visual Studio 2013\Projects\AutomateFormProcess\AutomateFormProcess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\spadmin\Documents\Visual Studio 2013\Projects\AutomateFormProcess\AutomateFormProcess\obj\Debug\AutomateFormProcess.csprojResolveAssemblyReference.cache
